@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+
+<repositories version="1.0">
+  <repo priority="50" quality="experimental" status="unofficial">
+    <name>hezhenxing-overlay</name>
+    <description>Personal overlay for He Zhenxing </description>
+    <homepage>https://github.com/hezhenxing/hezhenxing-overlay/</homepage>
+    <owner>
+      <email>hezhenxing@gmail.com</email>
+    </owner>
+    <source type="git">https://github.com/hezhenxing/hezhenxing-overlay.git</source>
+  </repo>
+</repositories>
